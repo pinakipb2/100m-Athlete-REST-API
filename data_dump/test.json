@@ -1,0 +1,72 @@
+[
+    {
+      "rank": 1,
+      "name": "Justin GATLIN",
+      "dob": "10 FEB 1982",
+      "nationality": "USA",
+      "score": 1428
+    },
+    {
+      "rank": 2,
+      "name": "Akani SIMBINE",
+      "dob": "21 SEP 1993",
+      "nationality": "RSA",
+      "score": 1393
+    },
+    {
+      "rank": 3,
+      "name": "Zharnel HUGHES",
+      "dob": "13 JUL 1995",
+      "nationality": "GBR",
+      "score": 1379
+    },
+    {
+      "rank": 4,
+      "name": "Yohan BLAKE",
+      "dob": "26 DEC 1989",
+      "nationality": "JAM",
+      "score": 1376
+    },
+    {
+      "rank": 5,
+      "name": "André DE GRASSE",
+      "dob": "10 NOV 1994",
+      "nationality": "CAN",
+      "score": 1366
+    },
+    {
+      "rank": 6,
+      "name": "Trayvon BROMELL",
+      "dob": "10 JUL 1995",
+      "nationality": "USA",
+      "score": 1331
+    },
+    {
+      "rank": 7,
+      "name": "Michael RODGERS",
+      "dob": "24 APR 1985",
+      "nationality": "USA",
+      "score": 1330
+    },
+    {
+      "rank": 8,
+      "name": "Noah LYLES",
+      "dob": "18 JUL 1997",
+      "nationality": "USA",
+      "score": 1323
+    },
+    {
+      "rank": 9,
+      "name": "Aaron BROWN",
+      "dob": "27 MAY 1992",
+      "nationality": "CAN",
+      "score": 1307
+    },
+    {
+      "rank": 10,
+      "name": "Chijindu UJAH",
+      "dob": "05 MAR 1994",
+      "nationality": "GBR",
+      "score": 1301
+    }
+  ]
